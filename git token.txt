@@ -2,4 +2,4 @@ git:https://github.com
 
 rodrigohirayama
 
-token??
+token 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
