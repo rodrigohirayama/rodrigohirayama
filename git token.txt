@@ -2,4 +2,4 @@ git:https://github.com
 
 rodrigohirayama
 
-token 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
+token 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
